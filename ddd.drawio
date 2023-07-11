@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T02:16:37.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tK52w7gg5LVK2X3EyLMK" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T02:25:53.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HsMvp2uZqyKKDwTEhgiF" version="21.6.1" type="github">
   <diagram name="第1頁" id="e8x7nLUZ2KBPXtW9Wovq">
     <mxGraphModel dx="1086" dy="3026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,12 +31,12 @@
             <mxPoint x="18" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DfMK4wFIMiDA-IrmHZem-24" value="" style="swimlane;startSize=0;strokeColor=#4D9900;" vertex="1" parent="1">
+        <mxCell id="DfMK4wFIMiDA-IrmHZem-24" value="" style="swimlane;startSize=0;strokeColor=#FF0080;fillColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="41" y="-2199" width="359" height="469" as="geometry">
             <mxRectangle x="80" y="-2220" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DfMK4wFIMiDA-IrmHZem-25" value="&lt;font color=&quot;#4d9900&quot; style=&quot;font-size: 16px;&quot;&gt;CUBE APP 排隊機制&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="DfMK4wFIMiDA-IrmHZem-24">
+        <mxCell id="DfMK4wFIMiDA-IrmHZem-25" value="&lt;font color=&quot;#ff0080&quot; style=&quot;font-size: 16px;&quot;&gt;CUBE APP 排隊機制&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DfMK4wFIMiDA-IrmHZem-24">
           <mxGeometry x="94.5" y="9" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DfMK4wFIMiDA-IrmHZem-3" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=14;" vertex="1" parent="DfMK4wFIMiDA-IrmHZem-24">
@@ -78,7 +78,10 @@
           <mxGeometry x="55.5" y="10" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DfMK4wFIMiDA-IrmHZem-29" value="" style="swimlane;startSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-2290" width="770" height="630" as="geometry" />
+          <mxGeometry x="10" y="-2290" width="770" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="DfMK4wFIMiDA-IrmHZem-30" value="&lt;font color=&quot;#009900&quot; style=&quot;font-size: 24px;&quot;&gt;APID：MTC-01&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DfMK4wFIMiDA-IrmHZem-29">
+          <mxGeometry x="180" y="17" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
